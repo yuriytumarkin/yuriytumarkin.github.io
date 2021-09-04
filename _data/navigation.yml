@@ -1,0 +1,9 @@
+side:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Mathematical things I've done"
+    url: /things/
+  - title: "Miscelaneous"
+    url: /misc/

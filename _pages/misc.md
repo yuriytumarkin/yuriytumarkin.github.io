@@ -1,0 +1,4 @@
+---
+permalink: /misc/
+---
+misc page
