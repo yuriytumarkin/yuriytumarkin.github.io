@@ -26,6 +26,8 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
+  - github-pages
 
 minimal_mistakes_skin: "dirt"
 
