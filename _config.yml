@@ -16,7 +16,7 @@
 title: Yuriy Tumarkin
 email: yuriy.tumarkin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Yuriy Tumarkin personal website
+  Yuriy Tumarkin's personal website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yuriytumarkin.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  yuriytumarkin
@@ -28,6 +28,8 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
   - github-pages
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 minimal_mistakes_skin: "dirt"
 
