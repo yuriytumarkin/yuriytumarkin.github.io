@@ -9,7 +9,7 @@ I'm currently a Part III (i.e. masters) mathematics student at Trinity College, 
 I'm most interested in geometry and dynamical systems, but have also enjoyed learning algebraic topology, representation theory and algebraic number theory.
 
 Contact details:
-- Email: [yt354 *at* cam *dot* ac *dot* uk](mailto: yt354@cam.ac.uk)
+- Email: yt354 *at* cam *dot* ac *dot* uk
 - Address: Trinity College, Trinity Street, CB2 1TQ, Cambridge
 
 
