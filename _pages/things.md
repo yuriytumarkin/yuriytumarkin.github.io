@@ -3,6 +3,11 @@ permalink: /things/
 title: Some mathematical things I've done
 ---
 
+## Essay: Groups Acting on Trees
+
+Set by Henry Wilton (DPMMS, Cambridge). An exposition of Bass-Serre theory, mostly following Serre's "Trees".<br>
+[Groups Acting on Trees](../files/essay.pdf).
+
 ## The Archimedeans (Cambridge University Mathematics Society)
 
 Between April 2020 and March 2021 I was the External Secretary of the society, responsible for inviting speakers for weekly talks and organising these talks. I also organised a series of student talks.
@@ -10,7 +15,7 @@ Between April 2020 and March 2021 I was the External Secretary of the society, r
 Most of the talks were recorded and the recordings are available on the [society Youtube channel](https://www.youtube.com/channel/UCdswONpWjfKTbpkBUP4fOyA/videos).
 
 
-## Talk: "Beatty's Theorem via Cutting Sequences"
+## Talk: Beatty's Theorem via Cutting Sequences
 
 This talk is about cutting sequences, presenting a geometrical proof of Beatty's Theorem, and also discussing the Fibonacci word and Wythoff's game. It's based on
 chapter 2 of S. Tabachnikov's *Geometry and Billiards*. <br>
