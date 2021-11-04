@@ -18,10 +18,10 @@ Trinity College, University of Cambridge.
 
 ## Pre-print
 
+*With Misha Schmalian and Yuri B. Suris.*
 **How one can repair non-integrable Kahan discretizations. II. A planar system with invariant curves of degree 6.**  <br>
-With Misha Schmalian and Yuri B. Suris.     <br>
-[https://arxiv.org/abs/2106.14301](https://arxiv.org/abs/2106.14301) <br>
-Result of 2020 summer research project supervised by Yuri B. Suris.
+To appear in *Mathematical Physics, Analysis and Geometry*.
+[arXiv:2106.14301](https://arxiv.org/abs/2106.14301) <br>
 
 
 ## Other Mathematical Activities
