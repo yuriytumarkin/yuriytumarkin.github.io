@@ -16,7 +16,7 @@ Part III of the Mathematical Tripos, University of Cambridge.
 Trinity College, University of Cambridge.
 
 
-## Pre-print
+## Publications
 
 *With Misha Schmalian and Yuri B. Suris.*
 **How one can repair non-integrable Kahan discretizations. II. A planar system with invariant curves of degree 6.**  <br>
