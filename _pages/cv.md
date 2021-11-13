@@ -9,12 +9,12 @@ title: CV
 
 ### MMath
 *2021 - 2022*  <br>
-Part III of the Mathematical Tripos, University of Cambridge.
+Part III of the Mathematical Tripos, Trinity College, University of Cambridge.
 
 ### B.A. in Mathematics
 *2018 - 2021*  <br>
-Trinity College, University of Cambridge.
-
+Trinity College, University of Cambridge. <br>
+First class, ranked 32/222.
 
 ## Publications
 
