@@ -1,7 +1,12 @@
 ---
 permalink: /cv/
-title: CV
 ---
+
+<div class = "sidebar__right">
+    <div class = "sticky">
+        <img src="../files/img/photo.jpg" alt="Photo of myself" >
+    </div>
+</div>
 
 [Full CV in PDF form](../files/cv.pdf)
 
