@@ -23,10 +23,10 @@ First class, ranked 32/222.
 
 ## Publications
 
-1. *With Misha Schmalian and Yuri B. Suris.*
+1. (2021) *With Misha Schmalian and Yuri B. Suris.*
 **How one can repair non-integrable Kahan discretizations. II. A planar system with invariant curves of degree 6.**  <br>
-To appear in *Mathematical Physics, Analysis and Geometry*.
-[arXiv:2106.14301](https://arxiv.org/abs/2106.14301) <br>
+*Mathematical Physics, Analysis and Geometry* 24. <br>
+[arXiv](https://arxiv.org/abs/2106.14301), [Journal](https://doi.org/10.1007/s11040-021-09413-2) <br>
 
 
 ## Other Mathematical Activities
