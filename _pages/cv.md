@@ -29,6 +29,12 @@ First class, ranked 32/222.
 [arXiv](https://arxiv.org/abs/2106.14301), [Journal](https://doi.org/10.1007/s11040-021-09413-2) <br>
 
 
+## Awards and Prizes
+- (2021) **Rouse Ball Mathematics Prize**, *For the essay* ["Groups Acting on Trees"](../files/essay.pdf).
+- (2021--22) **Trinity College Senior Scholarship**
+- (2019--20) **Trinity College Junior Scholarship**
+- (2019, 2021) **Trinity College Examination Prizes**
+
 ## Other Mathematical Activities
 *See also the* ['Mathematical things I've done'](../things) *page*
 
