@@ -14,12 +14,11 @@ permalink: /cv/
 
 ### MMath
 *2021 - 2022*  <br>
-Part III of the Mathematical Tripos, Trinity College, University of Cambridge.
+Part III of the Mathematical Tripos, Trinity College, University of Cambridge. <br>
 
 ### B.A. in Mathematics
 *2018 - 2021*  <br>
 Trinity College, University of Cambridge. <br>
-First class, ranked 32/222.
 
 ## Publications
 
@@ -33,7 +32,7 @@ First class, ranked 32/222.
 - (2021) **Rouse Ball Mathematics Prize**, *For the essay* ["Groups Acting on Trees"](../files/essay.pdf).
 - (2021--22) **Trinity College Senior Scholarship**
 - (2019--20) **Trinity College Junior Scholarship**
-- (2019, 2021) **Trinity College Examination Prizes**
+- (2019, 2021, 2022) **Trinity College Examination Prizes**
 
 ## Other Mathematical Activities
 *See also the* ['Mathematical things I've done'](../things) *page*

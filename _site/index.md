@@ -4,12 +4,12 @@
     </div>
 </div>
 
-I'm currently a Part III (i.e. masters) mathematics student at Trinity College, Unversity of Cambridge, graduating in July 2022.
+I'm currently a PhD student at the University of Zurich. My supervisor is Corinna Ulcigrai.
 
-I'm most interested in geometry and dynamical systems, but have also enjoyed learning algebraic topology, number theory and representation theory.
+Broadly speaking my interests lie in the intersection of dynamics and geometry, a specific example being translation surfaces and related topics.
 
 Contact details:
-- Email: [yt354 *at* cam.ac.uk](mailto:yt354@cam.ac.uk)
-- Address: Trinity College, Trinity Street, CB2 1TQ, Cambridge
+- Email: [yuriy.tumarkin *at* math.uzh.ch](mailto:yuriy.tumarkin@math.uzh.ch)
+- Address: Institut für Mathematik, Wintherturerstrasse 190, 8057 ZUrich, Switzerland
 
 

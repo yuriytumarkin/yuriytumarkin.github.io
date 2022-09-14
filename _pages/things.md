@@ -3,10 +3,18 @@ permalink: /things/
 title: Some mathematical things I've done
 ---
 
+## Part III Essay: Displaceability of Lagrangian Toric Fibres
+Supervised by Jack Smith (DPMMS, Cambridge). Exposition of main results of two papers by Dusa McDuff and Miguel Abreu & Leonardo Macarini showing methods to show respectively the displaceability or non-displaceability
+of the fibres. I found some new examples of applications of the method of Abreu and Macarini, showing that the phenomena they observed in two dimensions also take place in three dimensions. <br>
+[Displaceability of Lagrangian Toric Fibres](../files/displaceability.pdf)<br>
+[Errata](../files/displaceability_errata.pdf)
+
+
+
 ## Essay: Groups Acting on Trees
 
 Set by Henry Wilton (DPMMS, Cambridge). An exposition of Bass-Serre theory, mostly following Serre's "Trees".<br>
-[Groups Acting on Trees](../files/essay.pdf).
+[Groups Acting on Trees](../files/trees.pdf).
 
 ## The Archimedeans (Cambridge University Mathematics Society)
 

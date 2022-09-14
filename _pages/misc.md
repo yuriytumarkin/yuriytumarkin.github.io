@@ -1,6 +1,6 @@
 ---
-permalink: /misc/
 title: Miscellaneous
+permalink: /misc/
 ---
 
 ### QGIS
