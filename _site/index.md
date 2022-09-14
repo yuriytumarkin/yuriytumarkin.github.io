@@ -10,6 +10,6 @@ Broadly speaking my interests lie in the intersection of dynamics and geometry, 
 
 Contact details:
 - Email: [yuriy.tumarkin *at* math.uzh.ch](mailto:yuriy.tumarkin@math.uzh.ch)
-- Address: Institut für Mathematik, Wintherturerstrasse 190, 8057 ZUrich, Switzerland
+- Address: Institut für Mathematik, Wintherturerstrasse 190, 8057 Zurich, Switzerland
 
 
