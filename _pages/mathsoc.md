@@ -1,6 +1,7 @@
 ---
-permalink: /things/mathsoc/
+permalink: /outreach/mathsoc/
 title: "MathSoc Problem Sheets"
+classes: wide
 ---
 
 These are problem sheets I made for my school maths society, aimed at sixth-formers (i.e. students in their last two years of school.)  <br>

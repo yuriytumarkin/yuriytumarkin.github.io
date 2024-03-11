@@ -1,6 +1,7 @@
 ---
-permalink: /things/stimulus/
+permalink: /outreach/stimulus/
 title: STIMULUS Handouts
+classes: wide
 ---
 
 These are handouts I made for teaching a group of 9-10 year old students.

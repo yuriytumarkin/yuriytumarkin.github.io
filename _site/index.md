@@ -1,12 +1,13 @@
+
 <div class = "sidebar__right">
     <div class = "sticky">
         <img src="files/img/photo.jpg" alt="Photo of myself" >
     </div>
 </div>
 
-I'm currently a PhD student at the University of Zurich. My supervisor is Corinna Ulcigrai.
+I'm currently a second-year PhD student at the University of Zurich. My supervisor is [Corinna Ulcigrai](https://user.math.uzh.ch/ulcigrai/).
 
-Broadly speaking my interests lie in the intersection of dynamics and geometry, a specific example being translation surfaces and related topics.
+Broadly speaking my mathematical interests lie in the intersection of dynamics and geometry. Right now I'm mostly thinking about infinite translation surfaces.
 
 Contact details:
 - Email: [yuriy.tumarkin *at* math.uzh.ch](mailto:yuriy.tumarkin@math.uzh.ch)

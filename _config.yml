@@ -30,6 +30,7 @@ plugins:
   - github-pages
   - jekyll-sitemap
   - jekyll-seo-tag
+usemathjax: true
 
 minimal_mistakes_skin: "dirt"
 
