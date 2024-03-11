@@ -2,6 +2,7 @@
 permalink: /things/
 title: Some mathematical things I've done
 classes: wide
+published: false
 ---
 
 ## Part III Essay: Displaceability of Lagrangian Toric Fibres

@@ -1,5 +1,6 @@
 ---
 permalink: /cv/
+published: false
 ---
 
 <div class = "sidebar__right">

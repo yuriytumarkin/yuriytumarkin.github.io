@@ -1,6 +1,7 @@
 ---
 title: Miscellaneous
 permalink: /misc/
+published: false
 ---
 
 ### QGIS
