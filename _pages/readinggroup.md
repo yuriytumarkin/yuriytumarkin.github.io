@@ -12,11 +12,6 @@ Current organiser: Sophie Schmidhuber
 
 <ul>
 	
-	<li> <b> 26/03/24 </b> (13.00, H46) <b>&nbsp; Chris Lutsko,&nbsp; <i> Perfect Retroreflectors and Billiard Dynamics </i>  </b> <br>
-	Reference: <a href="https://www.aimsciences.org/article/doi/10.3934/jmd.2011.5.33">  P. Bachurin, K. Khanin, J. Marklof and A. Plakhov, 
-	<i>Perfect retroreflectors and billiard dynamics</i> </a>	
-	</li>
-	
 	
 	<li> <b> 11/04/24 &nbsp; Sophie Schmidhuber,&nbsp; <i> Towards Patterson-Sullivan Theory for Teichmüller Spaces of non-orientable
 surfaces  </i>  </b> <br>
@@ -54,6 +49,12 @@ surfaces  </i>  </b> <br>
 
 <h3> Spring 2024 </h3>	
 <ul>
+
+	<li> <b> 26/03/24 &nbsp; Chris Lutsko,&nbsp; <i> Perfect Retroreflectors and Billiard Dynamics </i>  </b> <br>
+	Reference: <a href="https://www.aimsciences.org/article/doi/10.3934/jmd.2011.5.33">  P. Bachurin, K. Khanin, J. Marklof and A. Plakhov, 
+	<i>Perfect retroreflectors and billiard dynamics</i> </a>	
+	</li>
+	
 
 	<li> <b> 21/03/24 &nbsp; Pouya Honaryar,&nbsp; <i> Introduction to Teichmüller Space of Hyperbolic Structures </i>  </b> <br>
 	Reference: Benson Farb and Dan Margalit, <i> A Primer on Mapping Class Groups </i> </li>
