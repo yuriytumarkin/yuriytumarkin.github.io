@@ -13,7 +13,7 @@ Current organiser: Sophie Schmidhuber
 <ul>
 	
 	<li> <b> 18/04/24 &nbsp; Sophie Schmidhuber,&nbsp; <i> Limit Sets of Non-orientable Mapping Class Groups II </i>  </b> <br>
-	Reference: <a href="https://arxiv.org/abs/2110.00037">  Sayantan Khan, 
+	Reference: <a href="https://www.aimsciences.org/article/doi/10.3934/jmd.2023007">  Sayantan Khan, 
 	<i>The limit set of non-orientable mapping class groups </i> </a>	
 	</li>
 	
@@ -43,7 +43,7 @@ Current organiser: Sophie Schmidhuber
 <ul>
 
 	<li> <b> 11/04/24 &nbsp; Sophie Schmidhuber,&nbsp; <i> Limit Sets of Non-orientable Mapping Class Groups I </i>  </b> <br>
-	Reference: <a href="https://arxiv.org/abs/2110.00037">  Sayantan Khan, 
+	Reference: <a href="https://www.aimsciences.org/article/doi/10.3934/jmd.2023007">  Sayantan Khan, 
 	<i>The limit set of non-orientable mapping class groups </i> </a>	
 	</li>
 

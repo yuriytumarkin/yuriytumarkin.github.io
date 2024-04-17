@@ -4,6 +4,11 @@ title: Writing and slides
 classes: wide
 ---
 
+### What is a ... translation surface? Zurich Graduate Colloquium talk
+[Slides](../files/slides/translationsurface.pdf)
+
+[Geogebra simulation of the Teichmüller geodesic flow on the moduli space of tori](https://www.geogebra.org/m/e3br6gws)
+
 ### Three minute presentation for the School on Flat Surfaces and Interactions, Le Teich, March 2024
 [Slides](../files/slides/LeTeich.pdf)
 
