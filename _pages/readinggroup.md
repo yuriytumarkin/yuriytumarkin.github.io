@@ -12,25 +12,6 @@ Current organiser: Sophie Schmidhuber
 
 <ul>
 	
-	<li> <b> 18/04/24 &nbsp; Sophie Schmidhuber,&nbsp; <i> Limit Sets of Non-orientable Mapping Class Groups II </i>  </b> <br>
-	Reference: <a href="https://www.aimsciences.org/article/doi/10.3934/jmd.2023007">  Sayantan Khan, 
-	<i>The limit set of non-orientable mapping class groups </i> </a>	
-	</li>
-	
-	
-	<li> <b> 25/04/24 </b> &nbsp; Guest talk: <b> Irene Pasquinelli,&nbsp; <i> Mapping class group orbit closures for non-orientable surfaces 1 </i> </b> <br>
-		Reference: <a href="https://link.springer.com/article/10.1007/s00039-023-00638-7">  V. Erlandsson, M. Gendulphe, I. Pasquinelli and J. Souto, 
-	<i>Mapping class group orbit closures for non-orientable surfaces</i> </a>	
-	</li>
-	
-	
-	<li> <b> 02/05/24 </b> &nbsp; Guest talk: <b> Irene Pasquinelli,&nbsp; <i> Mapping class group orbit closures for non-orientable surfaces 2 </i> </b> <br>
-		Reference: <a href="https://link.springer.com/article/10.1007/s00039-023-00638-7">  V. Erlandsson, M. Gendulphe, I. Pasquinelli and J. Souto, 
-	<i>Mapping class group orbit closures for non-orientable surfaces</i> </a>	
-	</li>
-
-
-
 
 </ul>
 
@@ -41,6 +22,21 @@ Current organiser: Sophie Schmidhuber
 
 <h3> Spring 2024 </h3>	
 <ul>
+
+	<li> <b> 02/05/24 </b> &nbsp; Guest talk: <b> Irene Pasquinelli,&nbsp; <i> Mapping class group orbit closures for non-orientable surfaces 2 </i> </b> <br>
+		Reference: <a href="https://link.springer.com/article/10.1007/s00039-023-00638-7">  V. Erlandsson, M. Gendulphe, I. Pasquinelli and J. Souto, 
+	<i>Mapping class group orbit closures for non-orientable surfaces</i> </a>	
+	</li>
+
+	<li> <b> 25/04/24 </b> &nbsp; Guest talk: <b> Irene Pasquinelli,&nbsp; <i> Mapping class group orbit closures for non-orientable surfaces 1 </i> </b> <br>
+		Reference: <a href="https://link.springer.com/article/10.1007/s00039-023-00638-7">  V. Erlandsson, M. Gendulphe, I. Pasquinelli and J. Souto, 
+	<i>Mapping class group orbit closures for non-orientable surfaces</i> </a>	
+	</li>
+
+	<li> <b> 18/04/24 &nbsp; Sophie Schmidhuber,&nbsp; <i> Limit Sets of Non-orientable Mapping Class Groups II </i>  </b> <br>
+	Reference: <a href="https://www.aimsciences.org/article/doi/10.3934/jmd.2023007">  Sayantan Khan, 
+	<i>The limit set of non-orientable mapping class groups </i> </a>	
+	</li>
 
 	<li> <b> 11/04/24 &nbsp; Sophie Schmidhuber,&nbsp; <i> Limit Sets of Non-orientable Mapping Class Groups I </i>  </b> <br>
 	Reference: <a href="https://www.aimsciences.org/article/doi/10.3934/jmd.2023007">  Sayantan Khan, 
