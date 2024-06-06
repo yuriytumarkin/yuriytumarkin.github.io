@@ -23,6 +23,28 @@ Current organiser: Sophie Schmidhuber
 <h3> Spring 2024 </h3>	
 <ul>
 
+	<li> <b> 06/06/24 &nbsp; Przemysłav Berk and Frank Trujillo,&nbsp; <i> Ergodicity of skew-products over typical IETs </i>  </b> <br>
+	Reference: <a href="https://arxiv.org/pdf/2405.07645"> F. Argentieri, P. Berk, F. Trujillo, 
+	<i>Ergodicity of skew-products over typical IETs </i> </a>	
+	</li>
+
+
+	<li> <b> 30/05/24 </b> &nbsp; Guest talk: <b> Magali Jay,&nbsp; <i> Tiling billiards and IETs </i> </b> <br>
+		References:
+		<ul>
+		<li>  <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.12854"> P. Baird-Smith, D. Davis, E. Fromm, S. Iyer,
+		<i>Tiling billards on triangle tilings, and interval exchange transformations</i> </a></li>
+		
+		<li>  <a href="https://www.tandfonline.com/doi/abs/10.1080/10586458.2019.1583615"> Pascal Hubert and Olga Paris-Romaskevich,
+		<i>Triangle Tiling Billiards and the Exceptional Family of their Escaping Trajectories: Circumcenters and Rauzy Gasket</i> </a></li>
+		
+		<li>  <a href="https://arxiv.org/pdf/1907.01178"> Olga Paris-Romaskevich,
+		<i>Trees and flowers on a billiard table</i> </a></li>
+		
+		</ul>
+	</li>
+
+
 	<li> <b> 02/05/24 </b> &nbsp; Guest talk: <b> Irene Pasquinelli,&nbsp; <i> Mapping class group orbit closures for non-orientable surfaces 2 </i> </b> <br>
 		Reference: <a href="https://link.springer.com/article/10.1007/s00039-023-00638-7">  V. Erlandsson, M. Gendulphe, I. Pasquinelli and J. Souto, 
 	<i>Mapping class group orbit closures for non-orientable surfaces</i> </a>	
