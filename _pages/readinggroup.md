@@ -2,16 +2,17 @@
 permalink: /readinggroup/
 classes: wide
 ---
-<h1> The reading group of Corinna Ulcigrai's research group </h1>
+<h1> Reading group on Topics in Entropy Zero Dynamics </h1>
 
 Current organiser: Sophie Schmidhuber
 
 <h2> Future talks</h2>
 
-<i>Unless marked otherwise, all talks are at 10.00 in H46.</i>
-
-<ul>
+<i>Unless marked otherwise, all talks are at 10.00 in Y34 K01 .</i>
 	
+<ul>
+	<li> <b> 03/10/24 &nbsp; Adam Kanigowski&nbsp; <i> Higher order mixing for mixing dynamical systems, Talk 1  </i>  </b> <br>
+	</li>
 
 </ul>
 
