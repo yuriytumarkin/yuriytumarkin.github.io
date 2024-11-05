@@ -11,8 +11,37 @@ Current organiser: Sophie Schmidhuber
 <i>Unless marked otherwise, all talks are at 10.00 in Y34 K01 .</i>
 		
 	
+
+
 <ul>
-	<li> <b> 08/10/24 15.10 H28 &nbsp; Adam Kanigowski, &nbsp; <i> Higher order mixing for mixing dynamical systems, Talk 2  </i>  </b> <br>
+	<li> <b> 07/11/24 </b>  &nbsp; Guest talk: <b> Hamid Al-Saqban &nbsp;   </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 14/11/24 </b> 10.30 	 &nbsp; <b> Corinna Ulcigrai, &nbsp;  <i> Veech Groups I </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 21/11/24  </b> 10.30 Y34K02  &nbsp; <b> Corinna Ulcigrai, &nbsp;  <i> Veech Groups II </i> </b> <br>
+	</li>
+</ul>
+
+<h2> Past talks </h2>
+
+
+<h3> Autumn 2024 </h3>
+
+<ul>
+	<li> <b> 31/10/24  &nbsp;Daniele Galli and Yuriy Tumarkin, &nbsp; <i> Horocycle flows on abelian covers of surfaces of negative curvature Talk 2</i>  </b> <br>
+	Reference: <a href="https://arxiv.org/abs/2405.08592"> Roberto Castorrini and Davide Ravotti, <i>Horocycle flows on abelian covers of surfaces of negative curvature</i> </a>
+	
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 24/10/24 &nbsp; Katy Loyd &nbsp; <i> Strong sweeping out property </i> </b> <br>
 	</li>
 </ul>
 
@@ -24,22 +53,10 @@ Current organiser: Sophie Schmidhuber
 </ul>
 
 <ul>
-	<li> <b> 24/10/24 &nbsp; Katy Loyd &nbsp;  </b> <br>
+	<li> <b> 08/10/24 15.10 H28 &nbsp; Adam Kanigowski, &nbsp; <i> Higher order mixing for mixing dynamical systems, Talk 2  </i>  </b> <br>
 	</li>
 </ul>
 
-<ul>
-	<li> <b> 31/10/24  &nbsp;Daniele Galli and Yuriy Tumarkin, &nbsp; <i> Horocycle flows on abelian covers of surfaces of negative curvature Talk 2</i>  </b> <br>
-	Reference: <a href="https://arxiv.org/abs/2405.08592"> Roberto Castorrini and Davide Ravotti, <i>Horocycle flows on abelian covers of surfaces of negative curvature</i> </a>
-	
-	</li>
-</ul>
-
-
-<h2> Past talks </h2>
-
-
-<h3> Autumn 2024 </h3>
 <ul>
 	<li> <b> 03/10/24 &nbsp; Adam Kanigowski, &nbsp; <i> Higher order mixing for mixing dynamical systems, Talk 1  </i>  </b> <br>
 	</li>
