@@ -14,17 +14,7 @@ Current organiser: Sophie Schmidhuber
 
 
 <ul>
-	<li> <b> 07/11/24 </b>  &nbsp; Guest talk: <b> Hamid Al-Saqban &nbsp;   </b> <br>
-	</li>
-</ul>
-
-<ul>
-	<li> <b> 14/11/24 </b> 10.30 	 &nbsp; <b> Corinna Ulcigrai, &nbsp;  <i> Veech Groups I </i> </b> <br>
-	</li>
-</ul>
-
-<ul>
-	<li> <b> 21/11/24  </b> 10.30 Y34K02  &nbsp; <b> Corinna Ulcigrai, &nbsp;  <i> Veech Groups II </i> </b> <br>
+	<li> <b> 21/11/24  </b> Y34K02  &nbsp; <b> Corinna Ulcigrai, &nbsp;  <i> Veech Groups II </i> </b> <br>
 	</li>
 </ul>
 
@@ -32,6 +22,16 @@ Current organiser: Sophie Schmidhuber
 
 
 <h3> Autumn 2024 </h3>
+
+<ul>
+	<li> <b> 14/11/24 </b> 	 &nbsp; <b> Corinna Ulcigrai, &nbsp;  <i> Veech Groups I </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 07/11/24 </b>  &nbsp; Guest talk: <b> Hamid Al-Saqban &nbsp;   </b> <br>
+	</li>
+</ul>
 
 <ul>
 	<li> <b> 31/10/24  &nbsp;Daniele Galli and Yuriy Tumarkin, &nbsp; <i> Horocycle flows on abelian covers of surfaces of negative curvature Talk 2</i>  </b> <br>
