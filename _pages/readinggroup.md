@@ -10,18 +10,23 @@ Current organiser: Sophie Schmidhuber
 
 <i>Unless marked otherwise, all talks are at 10.00 in Y34 K01 .</i>
 		
-	
-
-
 <ul>
-	<li> <b> 21/11/24  </b> Y34K02  &nbsp; <b> Corinna Ulcigrai, &nbsp;  <i> Veech Groups II </i> </b> <br>
+	<li> <b> 28/11/24 &nbsp; </b> Guest talk: <b> Dmitry Dolgopyat, &nbsp; <i> Local Limit Theorems for non stationary subshifts of finite type </i>   </b> <br>
 	</li>
-</ul>
+</ul>	
+
+
+
 
 <h2> Past talks </h2>
 
 
 <h3> Autumn 2024 </h3>
+
+<ul>
+	<li> <b> 21/11/24  </b> Y34K02  &nbsp; <b> Corinna Ulcigrai, &nbsp;  <i> Veech Groups II </i> </b> <br>
+	</li>
+</ul>
 
 <ul>
 	<li> <b> 14/11/24 </b> 	 &nbsp; <b> Corinna Ulcigrai, &nbsp;  <i> Veech Groups I </i> </b> <br>
