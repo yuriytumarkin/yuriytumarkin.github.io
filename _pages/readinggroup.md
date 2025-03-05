@@ -4,9 +4,54 @@ classes: wide
 ---
 <h1> Reading group on Topics in Entropy Zero Dynamics </h1>
 
-Current organiser: Sophie Schmidhuber
 
 <h2> Future talks</h2>
+Unless otherwise stated, talks on Fridays at 10.15 in H25.
+
+<ul>
+	<li> <b> 07/03/25  </b> &nbsp; <b> Pouya Honaryar, &nbsp;  <i> Measured laminations </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 14/03/25  </b> &nbsp; <b> Mihajlo Cekić, &nbsp;  <i> Spectral gap for Anosov flows I </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 21/03/25  </b> &nbsp; <b> Mihajlo Cekić, &nbsp;  <i> Spectral gap for Anosov flows II </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 28/03/25  </b> &nbsp; <b> Hao Wu, &nbsp;  <i> Local limit theorems </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 04/04/25  </b> &nbsp; <b> Corinna Ulcigrai, &nbsp;  <i> GIETs </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 02/05/25  </b> &nbsp; <b> Jonguk Yang and Noam Szyfer, &nbsp;  <i> Cross-ratios and basic tools for 1D dynamics </i> </b> <br>
+	</li>
+</ul>
+  
+<ul>
+	<li> <b> 09/05/25  </b> &nbsp; Guest talk: <b> Nicole Müller, &nbsp;  <i> Teichmüller Curves </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 16/05/25  </b> &nbsp; <b> Jonguk Yang,  &nbsp;  <i> Renormalisation for unimodal maps I </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 23/05/25  </b> &nbsp; <b> Jonguk Yang,  &nbsp;  <i> Renormalisation for unimodal maps II </i> </b> <br>
+	</li>
+</ul>
 
 
 <h2> Past talks </h2>
