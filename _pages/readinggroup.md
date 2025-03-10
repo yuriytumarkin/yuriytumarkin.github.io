@@ -8,10 +8,7 @@ classes: wide
 <h2> Future talks</h2>
 Unless otherwise stated, talks on Fridays at 10.15 in H25.
 
-<ul>
-	<li> <b> 07/03/25  </b> &nbsp; <b> Pouya Honaryar, &nbsp;  <i> Measured laminations </i> </b> <br>
-	</li>
-</ul>
+
 
 <ul>
 	<li> <b> 14/03/25  </b> &nbsp; <b> Mihajlo Cekić, &nbsp;  <i> Spectral gap for Anosov flows I </i> </b> <br>
@@ -56,6 +53,12 @@ Unless otherwise stated, talks on Fridays at 10.15 in H25.
 
 <h2> Past talks </h2>
 
+<h3> Spring 2025 </h3>
+
+<ul>
+	<li> <b> 07/03/25  </b> &nbsp; <b> Pouya Honaryar, &nbsp;  <i> Measured laminations </i> </b> <br>
+	</li>
+</ul>
 
 <h3> Autumn 2024 </h3>
 
