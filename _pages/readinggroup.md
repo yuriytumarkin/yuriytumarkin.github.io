@@ -9,27 +9,6 @@ classes: wide
 Unless otherwise stated, talks on Fridays at 10.15 in H25.
 
 
-
-<ul>
-	<li> <b> 14/03/25  </b> &nbsp; <b> Mihajlo Cekić, &nbsp;  <i> Spectral gap for Anosov flows I </i> </b> <br>
-	</li>
-</ul>
-
-<ul>
-	<li> <b> 21/03/25  </b> &nbsp; <b> Mihajlo Cekić, &nbsp;  <i> Spectral gap for Anosov flows II </i> </b> <br>
-	</li>
-</ul>
-
-<ul>
-	<li> <b> 28/03/25  </b> &nbsp; <b> Hao Wu, &nbsp;  <i> Local limit theorems </i> </b> <br>
-	</li>
-</ul>
-
-<ul>
-	<li> <b> 04/04/25  </b> &nbsp; <b> Corinna Ulcigrai, &nbsp;  <i> GIETs </i> </b> <br>
-	</li>
-</ul>
-
 <ul>
 	<li> <b> 02/05/25  </b> &nbsp; <b> Jonguk Yang and Noam Szyfer, &nbsp;  <i> Cross-ratios and basic tools for 1D dynamics </i> </b> <br>
 	</li>
@@ -54,6 +33,38 @@ Unless otherwise stated, talks on Fridays at 10.15 in H25.
 <h2> Past talks </h2>
 
 <h3> Spring 2025 </h3>
+
+<ul>
+	<li> <b> 11/04/25  </b> &nbsp; <b> Corinna Ulcigrai, &nbsp;  <i> Renormalisation of GIETs II </i> </b> <br>
+	Reference: <a href="https://link.springer.com/article/10.1007/s10240-023-00142-6"> Selim Ghazouani and Corinna Ulcigrai, 
+	<i>A priori bounds for GIETs, affine shadows and rigidity of foliations in genus two</i> </a>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 04/04/25  </b> &nbsp; <b> Corinna Ulcigrai, &nbsp;  <i> Renormalisation of GIETs I </i> </b> <br>
+	Reference: <a href="https://link.springer.com/article/10.1007/s10240-023-00142-6"> Selim Ghazouani and Corinna Ulcigrai, 
+	<i>A priori bounds for GIETs, affine shadows and rigidity of foliations in genus two</i> </a>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 28/03/25  </b> &nbsp; <b> Hao Wu, &nbsp;  <i> Local limit theorems </i> </b> <br>
+	Reference: <a href="https://www.weizmann.ac.il/math/sarigo/sites/math.sarigo/files/uploads/mc-llt-monograph5.pdf"> 
+	Dmitry Dolgopyat and Omri Sarig, 
+	<i>Local Limit Theorems for Inhomogeneous Markov Chains</i> </a>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 21/03/25  </b> &nbsp; <b> Mihajlo Cekić, &nbsp;  <i> Spectral gap for Anosov flows II </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 14/03/25  </b> &nbsp; <b> Mihajlo Cekić, &nbsp;  <i> Spectral gap for Anosov flows I </i> </b> <br>
+	</li>
+</ul>
 
 <ul>
 	<li> <b> 07/03/25  </b> &nbsp; <b> Pouya Honaryar, &nbsp;  <i> Measured laminations </i> </b> <br>
