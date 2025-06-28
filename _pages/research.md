@@ -8,12 +8,17 @@ sidebar:
 title: Research
 ---
 
-Currently I am studying infinite translation surfaces, in particular I am interested in the ergodic properties of the linear flow on periodic 
-surfaces.
+Currently I am interested in two extensions of the classical theory of translation surfaces and interval exchange transformations. Firstly, I'm 
+studying the ergodic properties of the straight-line flow on infinite covers of translation surfaces, and correspondingly skew-products over IETs. 
+
 
 <center>
 <img width = 400 src="/files/img/staircase.png" alt="Linear flow on the infinite staircase surface" >
 </center>
+
+<br>
+
+Secondly, I'm interested in IETs with flips and the analogue of a translation structure defined on non-orientable surfaces.
 
 
 ## Publications and preprints
