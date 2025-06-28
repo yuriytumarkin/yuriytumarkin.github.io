@@ -9,13 +9,31 @@ classes: wide
 Unless otherwise stated, talks on Fridays at 10.15 in H25.
 
 
+
+  
+
+
+
+
+
+
+
+<h2> Past talks </h2>
+
+<h3> Spring 2025 </h3>
+
 <ul>
-	<li> <b> 02/05/25  </b> &nbsp; <b> Jonguk Yang and Noam Szyfer, &nbsp;  <i> Cross-ratios and basic tools for 1D dynamics </i> </b> <br>
+	<li> <b> 20/06/25  </b> &nbsp; <b> Jonguk Yang,  &nbsp;  <i> Renormalisation for unimodal maps III </i> </b> <br>
 	</li>
 </ul>
-  
+
 <ul>
-	<li> <b> 09/05/25  </b> &nbsp; Guest talk: <b> Nicole Müller, &nbsp;  <i> Teichmüller Curves </i> </b> <br>
+	<li> <b> 26/05/25  </b> &nbsp; Guest talk: <b> Vicente Maturana Gálvez,  &nbsp;  <i> AIET Conjugacies </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 23/05/25  </b> &nbsp; <b> Jonguk Yang,  &nbsp;  <i> Renormalisation for unimodal maps II </i> </b> <br>
 	</li>
 </ul>
 
@@ -25,14 +43,14 @@ Unless otherwise stated, talks on Fridays at 10.15 in H25.
 </ul>
 
 <ul>
-	<li> <b> 23/05/25  </b> &nbsp; <b> Jonguk Yang,  &nbsp;  <i> Renormalisation for unimodal maps II </i> </b> <br>
+	<li> <b> 09/05/25  </b> &nbsp; Guest talk: <b> Nicole Müller, &nbsp;  <i> Teichmüller Curves </i> </b> <br>
 	</li>
 </ul>
 
-
-<h2> Past talks </h2>
-
-<h3> Spring 2025 </h3>
+<ul>
+	<li> <b> 02/05/25  </b> &nbsp; <b> Noam Szyfer, &nbsp;  <i> Cross-ratios and basic tools for 1D dynamics </i> </b> <br>
+	</li>
+</ul>
 
 <ul>
 	<li> <b> 11/04/25  </b> &nbsp; <b> Corinna Ulcigrai, &nbsp;  <i> Renormalisation of GIETs II </i> </b> <br>
@@ -68,6 +86,13 @@ Unless otherwise stated, talks on Fridays at 10.15 in H25.
 
 <ul>
 	<li> <b> 07/03/25  </b> &nbsp; <b> Pouya Honaryar, &nbsp;  <i> Measured laminations </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 21/01/25  </b> &nbsp; Guest talk: <b> Leon Staresinic, &nbsp;  <i> Density of Stable Interval Translation Maps </i> </b> <br>
+	Reference: <a href="https://arxiv.org/pdf/2411.14312"> Kostiantyn Drach, Leon Staresinic and Sebastian van Strien, <i> Density of Stable Interval Translation Maps </i> </a>
+	
 	</li>
 </ul>
 

@@ -21,8 +21,9 @@ surfaces.
 <small>*Click on the arrows for short descriptions of the papers*</small>
 
 <details> 
-<summary markdown='span'> **Ergodic measures for periodic type \\(\mathbb{Z}^m\\)- skew-products over Interval Exchange Transformations**  (2023) <br>
-Preprint: [arXiv](https://arxiv.org/abs/2312.13165)
+<summary markdown='span'> **Ergodic measures for periodic type \\(\mathbb{Z}^m\\)- skew-products over Interval Exchange Transformations** <br>
+*Journal d'Analyse Mathematique* **155**, *pp.699-741* (2025) <br>
+[arXiv](https://arxiv.org/abs/2312.13165), [Journal](https://link.springer.com/article/10.1007/s11854-025-0370-7)
 </summary>
 
 <br>
@@ -31,7 +32,10 @@ Preprint: [arXiv](https://arxiv.org/abs/2312.13165)
 	It turns out that even if starting with a uniquely ergodic IET, its skew-products can have many invariant measures. A particularly nice
 	family of invariant measures for infinite skew-products are the *Maharam measures*, which scale under the Deck group action. Here we show that 
 	for the special case of skew-products which are periodic under an extension of Rauzy-Veech induction, the ergodic invariant measures are 
-	precisely these Maharam measures. For the proof we use symbolic coding and apply a symbolic result of Aaronson, Nakada, Sarig and Solomyak.
+	precisely these Maharam measures. For the proof we use symbolic coding and apply a symbolic result of Aaronson, Nakada, Sarig and Solomyak. <br>
+	
+	In addition, using an extension of the Rauzy-Veech cocycle adapted to infinite skew-products, 
+	we show that the Maharam measure depends continuously on the scaling parameter.
 </p>
 </details>
 <p></p>

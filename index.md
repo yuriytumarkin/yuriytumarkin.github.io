@@ -9,7 +9,7 @@ I'm currently a third-year PhD student at the University of Zurich. My superviso
 
 Broadly speaking my mathematical interests lie in the intersection of dynamics and geometry. Right now I'm mostly thinking about infinite translation surfaces.
 
-My CV is available here: [CV](/files/cv2024.pdf)
+My CV is available here: [CV](/files/cv2025.pdf)
 
 Contact details:
 - Email: [yuriy.tumarkin *at* math.uzh.ch](mailto:yuriy.tumarkin@math.uzh.ch)
