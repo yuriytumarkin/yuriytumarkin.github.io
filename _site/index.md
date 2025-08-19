@@ -5,7 +5,7 @@
     </div>
 </div>
 
-I'm currently a third-year PhD student at the University of Zurich. My supervisor is [Corinna Ulcigrai](https://user.math.uzh.ch/ulcigrai/).
+I'm currently a fourth-year PhD student at the University of Zurich. My supervisor is [Corinna Ulcigrai](https://user.math.uzh.ch/ulcigrai/).
 
 Broadly speaking my mathematical interests lie in the intersection of dynamics and geometry. 
 Right now I'm mostly thinking about infinite translation surfaces and translation structures on non-orientable surfaces.
