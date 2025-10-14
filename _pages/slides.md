@@ -3,6 +3,10 @@ permalink: /slides/
 title: Writing and slides
 classes: wide
 ---
+### Animation of renormalisation for \\(\mathbb{Z}\\)-covers of translation surfaces
+<video width="600" height="450" controls>
+  <source src="../files/animations/CutAndStackCoverLabels.mp4" type="video/mp4">
+</video> 
 
 ### What is a ... translation surface? Zurich Graduate Colloquium talk
 [Slides](../files/slides/translationsurface.pdf)

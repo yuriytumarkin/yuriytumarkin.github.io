@@ -24,6 +24,32 @@ Secondly, I'm interested in IETs with flips and the analogue of a translation st
 ## Publications and preprints
 
 <small>*Click on the arrows for short descriptions of the papers*</small>
+<details> 
+<summary markdown='span'> **Invariant sets for wind-tree models** <br>
+*Pre-print* (2025): [arXiv:2510.10760 ](https://arxiv.org/abs/2510.10760)  <br>
+</summary>
+
+<br>
+
+<p markdown='span'>
+	While it has been known since the work of Frączek and Ulcigrai (2014) that generically the wind-tree model is not ergodic and 
+	even non-transitive, little is known about what the trajectories look like. We construct explicit invariant sets for the flow. 
+	Using this and a symbolic coding we show that when the underlying compact translation surface is periodic for the Teichmüller flow, 
+	and the cover is given by an unstable homology class, the Hausdorff dimension of every orbit closure of the billiard flow is 
+	non-maximal.
+
+</p>
+</details>
+[Code used to plot the below example of an invariant set](../windtree)
+<center>
+<img width = 500 src="/files/img/exact_periodic240.png" alt="Invariant set for the billiard flow on periodic-type wind-tree model" >
+</center>
+
+
+<p>
+
+
+</p>
 
 <details> 
 <summary markdown='span'> **Ergodic measures for periodic type \\(\mathbb{Z}^m\\)- skew-products over Interval Exchange Transformations** <br>

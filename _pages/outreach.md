@@ -17,6 +17,8 @@ problem-solving sessions on topics such as the illumination problem
  and cutting sequences for billiards in the square. The focus of these sessions is 
 on allowing the students to experiment (using [pre-made Geogebra programs](slowchaos/)) and discover mathematical phenomena on their own.
 
+In this role I've also been involved in other events, such as the *Zurich Long Night of Museums* (2023 and 2024) and the *Kids-University Zurich*, a
+one-day program for primary school children.
 
 ## STIMULUS
 
