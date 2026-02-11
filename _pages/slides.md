@@ -3,6 +3,9 @@ permalink: /slides/
 title: Writing and slides
 classes: wide
 ---
+### Talk: Invariant sets for the wind-tree model
+[Slides](../files/slides/windtree.pdf)
+
 ### Animation of renormalisation for \\(\mathbb{Z}\\)-covers of translation surfaces
 <video width="600" height="450" controls>
   <source src="../files/animations/CutAndStackCoverLabels.mp4" type="video/mp4">
