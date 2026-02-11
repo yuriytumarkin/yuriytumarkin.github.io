@@ -12,8 +12,6 @@ Right now I'm mostly thinking about infinite translation surfaces and translatio
 
 My CV is available here: [CV](/files/cv2025.pdf)
 
-I am currently on the job market, looking to start a postdoc in autumn 2026.
-
 Contact details:
 - Email: [yuriy.tumarkin *at* math.uzh.ch](mailto:yuriy.tumarkin@math.uzh.ch)
 - Address: Institut für Mathematik, Wintherturerstrasse 190, 8057 Zurich, Switzerland

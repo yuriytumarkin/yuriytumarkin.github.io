@@ -6,7 +6,7 @@ classes: wide
 
 
 <h2> Future talks</h2>
-Unless otherwise stated, talks on Fridays at 10.15 in H25.
+Unless otherwise stated, talks on Fridays at 13.30 in H52.
 
 
 
@@ -19,6 +19,64 @@ Unless otherwise stated, talks on Fridays at 10.15 in H25.
 
 
 <h2> Past talks </h2>
+
+<h3> Autumn 2025 </h3>
+
+<ul>
+	<li> <b> 08/12/25  </b> &nbsp; <b> Corinna Ulcigrai;  <i> Two results on disjointness based on Kerkhoff lemma II </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 01/12/25  </b> &nbsp; <b> Corinna Ulcigrai;  <i> Two results on disjointness based on Kerkhoff lemma I </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 24/11/25  </b> &nbsp; <b> Eleonora Passaglia;  <i> Gibbs measures </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 17/11/25  </b> &nbsp; <b> Leon Staresinic;  <i> Simplicial systems and vector memory random walks III </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 10/11/25  </b> &nbsp; <b> Sophie Schmidhuber and Leon Staresinic;  <i> Simplicial systems and vector memory random walks II </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 03/11/25  </b> &nbsp; <b> Sophie Schmidhuber;  <i> Simplicial systems and vector memory random walks I </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 27/10/25  </b> &nbsp; <b> Jianshu Jiang,  &nbsp;  <i> Oseledets' Theorem II: higher dimensions </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 20/10/25  </b> &nbsp; <b> Yuxiang Jiao,  &nbsp;  <i> Random matrix products </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 13/10/25  </b> &nbsp; <b> Noam Szyfer,  &nbsp;  <i> Oseledets' Theorem I </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 05/10/25  </b> &nbsp; Guest talk: <b> Jing Zhao,  &nbsp;  <i> The extension of circle rotations and its application on classical Fermi accelerator </i> </b> <br>
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 29/09/25  </b> &nbsp; <b> Yuriy Tumarkin,  &nbsp;  <i> Invariant sets for the Ehrenfest wind-tree model </i> </b> <br>
+	</li>
+</ul>
+
 
 <h3> Spring 2025 </h3>
 
