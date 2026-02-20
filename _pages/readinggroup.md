@@ -37,7 +37,7 @@ Unless otherwise stated, talks on Fridays at 13.30 in H52.
 </ul>
 
 <ul>
-	<li> <b> 17/04/26  </b> &nbsp; <b> Yuriy Tumarkin;  <i> Transfer operator approach for pseudo-Anosovs on Z^d covers of translation sufaces </i> </b> <br>
+	<li> <b> 17/04/26  </b> &nbsp; <b> Yuriy Tumarkin;  <i> Transfer operator approach for pseudo-Anosovs on Z^d covers of translation surfaces </i> </b> <br>
 	Reference: M. Artigiani, R. Castorrini, D. Ravotti, Y. Tumarkin
 	</li>
 </ul>
