@@ -43,7 +43,7 @@ Unless otherwise stated, talks on Fridays at 13.30 in H52.
 </ul>
 
 <ul>
-	<li> <b>  24/04/26 </b> &nbsp; <b> Pouya and Honaryar and Jianshu Jiang;  <i> From limit theorems to mixing limit theorems</i> </b> <br>
+	<li> <b>  24/04/26 </b> &nbsp; <b> Pouya Honaryar and Jianshu Jiang;  <i> From limit theorems to mixing limit theorems</i> </b> <br>
 	Reference: <a href="https://arxiv.org/abs/2405.16825"> F. Arana-Herrera, G. Forni, 
 	<i> From limit theorems to mixing limit theorems </i> </a>	
 	</li>
