@@ -9,13 +9,6 @@ classes: wide
 Unless otherwise stated, talks on Fridays at 13.30 in H52.
 
 
-<ul>
-	<li> <b> 06/03/26  </b> &nbsp; <b> Leon Staresinic;  <i> Renormalisation of Lorenz maps II</i> </b> <br>
-	Reference: <a href="https://link.springer.com/article/10.1007/s00220-025-05432-0"> M. Martens, B. Winckler, 
-	<i> Instability of Renormalization </i> </a>	
-	</li>
-</ul>
-
 
 <ul>
 	<li> <b> 13/03/26 </b> &nbsp; <b> Sophie Schmidhuber;  <i> Infinite IETs </i> </b> <br>
@@ -66,6 +59,13 @@ Unless otherwise stated, talks on Fridays at 13.30 in H52.
 <h3> Spring 2026 </h3>
 <ul>
 	<li> <b> 27/02/26  </b> &nbsp; <b> Leon Staresinic;  <i> Renormalisation of Lorenz maps I </i> </b> <br>
+	Reference: <a href="https://link.springer.com/article/10.1007/s00220-025-05432-0"> M. Martens, B. Winckler, 
+	<i> Instability of Renormalization </i> </a>	
+	</li>
+</ul>
+
+<ul>
+	<li> <b> 06/03/26  </b> &nbsp; <b> Leon Staresinic;  <i> Renormalisation of Lorenz maps II</i> </b> <br>
 	Reference: <a href="https://link.springer.com/article/10.1007/s00220-025-05432-0"> M. Martens, B. Winckler, 
 	<i> Instability of Renormalization </i> </a>	
 	</li>
